@@ -1,20 +1,6 @@
-- [About](/0014_About)
-- [Features](/0016_Features)
-  - [自动生成 Sidebar](/0024_Features_AutoSidebar)
-  - [Backup the Images](/0036_Features_BackupImages)
-  - [Include Content](/0013_Features_IncludeContent)
-  - [知识图谱](/0035_Features_KG)
-  - [Latex Support](/0018_Features_Latex)
-  - [Markdown](/0017_Features_Markdown)
-  - [Mermaid 图表支持](/0020_Features_Mermaid)
-  - [MindMap](/0022_Features_MindMap)
-  - [Timeline](/0034_Features_Timeline)
-- [Guide](/0023_Guide)
-  - [AutoSidebar](/0026_Guide_AutoSidebar)
-  - [WriteWiki](/0027_Guide_WriteWiki)
-- [TODO](/0004_TODO)
 - [历史](/0003_历史)
+  - [工具历史](/0004_历史_工具)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@2101400627</sub></kbd>
+<kbd><sub>@2120340627</sub></kbd>
