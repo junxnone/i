@@ -13,7 +13,8 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
   - [WriteWiki](/0027_Guide_WriteWiki)
 - [TODO](/0004_TODO)
+- [历史](/0003_历史)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1618520627</sub></kbd>
+<kbd><sub>@2101400627</sub></kbd>
