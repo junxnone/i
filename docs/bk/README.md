@@ -2,7 +2,7 @@
 
 | Title     | README                                         |
 | --------- | ---------------------------------------------- |
-| Updated @ | `2023-06-27T02:54:48Z`                         |
+| Updated @ | `2023-07-01T17:21:49Z`                         |
 | Edit @    | [here](https://github.com/junxnone/i/issues/1) |
 
 -----
@@ -16,10 +16,11 @@ Template](https://github.com/junxnone/twiki/generate)</kbd>
 
   - [Mindmap -
     Markmap](https://junxnone.github.io/i/markmap.html?md=https://junxnone.github.io/i/_sidebar.md)
-  - [3D Knowledge Graph](https://junxnone.github.io/kg?json=i/kg.json)
+  - [3D Knowledge
+    Graph](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/i/kg.json)
 
 -----
 
 [Index](_sidebar.md ":include")
 
-[kg](https://junxnone.github.io/kg?json=i/kg.json ":include :type=iframe width=100% height=800px")
+[kg](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/i/kg.json ":include :type=iframe width=100% height=800px")
